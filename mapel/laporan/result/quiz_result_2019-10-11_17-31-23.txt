@@ -1,5 +1,0 @@
-Quiz Name: Untitled Quiz
-User Name: 1
-Passing Score: 20
-User Score: 0
-
