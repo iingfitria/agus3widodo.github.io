@@ -1,5 +1,0 @@
-Quiz Name: Test Quiz
-User Name: 1
-Passing Score: 10
-User Score: 20
-
